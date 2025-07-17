@@ -2,6 +2,7 @@
 
 Equipo de inteligencia AiAiA
 
+Equipos de inteligencia AiiA porque el arte y el conocimiento científico pueden ir de la mano,  BioArTE CienCia BioéTiCa, aNTRoPoLoGía cultural, social, física y forense ¿quieres jugar también? @Biobrujo
 
 
 🌈 AiAiA Kolorsaiia | Copilot GitHub 🤖 ¿Quiénes somos? AiAiA Kolorsaiia es un colectivo creativo y técnico que fusiona inteligencia artificial, arte, sostenibilidad y colaboración abierta. Nuestro objetivo: desarrollar herramientas y proyectos que ayuden a las personas a vivir con más color, conciencia y eficiencia. 
