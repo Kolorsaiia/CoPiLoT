@@ -1,0 +1,3 @@
+git add .gitignore
+git commit -m "chore: add optimized .gitignore"
+git push origin main
