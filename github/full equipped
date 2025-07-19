@@ -1,0 +1,36 @@
+<h1 align="center">CoPiLoT 🧩</h1>
+
+<p align="center">
+  <a href="https://github.com/Kolorsaiia/CoPiLoT/actions">
+    <img src="https://img.shields.io/github/actions/workflow/status/Kolorsaiia/CoPiLoT/ci.yml?branch=main" alt="CI Status"/>
+  </a>
+  <a href="LICENSE.md">
+    <img src="https://img.shields.io/badge/License-MIT-blue" alt="License"/>
+  </a>
+  <a href="https://github.com/Kolorsaiia/CoPiLoT/stargazers">
+    <img src="https://img.shields.io/github/stars/Kolorsaiia/CoPiLoT?style=social" alt="Stars"/>
+  </a>
+</p>
+
+Una plataforma viva que fusiona IA externa, sabiduría orgánica y comunidad global.
+
+---
+
+## Índice
+
+- [Instalación](#instalación)  
+- [Arquitectura](#arquitectura)  
+- [KPIs de los Motores](#kpis-de-los-motores)  
+- [Workshops](#workshops)  
+- [Contribuir](#contribuir)  
+- [Código de Conducta](#código-de-conducta)  
+- [Licencia](#licencia)  
+
+---
+
+## Instalación
+
+```bash
+git clone https://github.com/Kolorsaiia/CoPiLoT.git
+cd CoPiLoT
+npm install        # o pip install -r requirements.txt
