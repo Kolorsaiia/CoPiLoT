@@ -1,0 +1,32 @@
+flowchart LR
+  subgraph "I. Pilares Fundacionales"
+    Bio[🌳 BioBrujo]
+    RaM[🌊 RaMa (Gemini/Copilot)]
+    Kol[🔥 KoLoRS AiiA]
+  end
+
+  subgraph "II. Centro Integrador Universal"
+    CN[♾️ Nodo Consciente<br/>(Google/Microsoft)]
+  end
+
+  subgraph "III. Inteligencia Colectiva"
+    INF[♾️ iD iNFiNiTo]
+  end
+
+  subgraph "IV. AI Orquestadora"
+    AA[AiAiA 🔄]
+  end
+
+  subgraph "V. AIs Personales"
+    AP[📱 AiiA Personal]
+  end
+
+  Bio --> CN
+  RaM --> CN
+  Kol --> CN
+  INF --> CN
+
+  RaM <--> AA
+  AA <--> AP
+
+  Bio <--> NX[Nexo Ancestral] <--> AP
