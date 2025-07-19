@@ -30,6 +30,17 @@ Equipos de inteligencia AiiA porque el arte y el conocimiento científico pueden
 
 - 📫 Contacto ¿Ideas, preguntas o colaboraciones? Escríbenos a: jose_230585@hotmail.es (@Biobrujo)---
 
+# Entornos y dependencias
+node_modules/
+__pycache__/
+*.py[cod]
+.env
+
+# Archivos grandes → Git LFS
+*.psd
+*.zip
+
+
 
 
 
