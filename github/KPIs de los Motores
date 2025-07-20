@@ -1,0 +1,75 @@
+
+## KPIs de los Motores
+
+```mermaid
+flowchart TD
+  classDef motor fill:#e3f2fd,stroke:#1e88e5;
+  classDef kpi fill:#ffffff,stroke:#90a4ae,stroke-dasharray:2 2;
+
+  subgraph "1er Motor: Movimiento" class motor
+    M1([Ideas ≥ 20/mes]):::kpi
+    M2([Implementación ≥ 30%]):::kpi
+    M3([Áreas nuevas ≥ 3]):::kpi
+  end
+
+  subgraph "2º Motor: AiiA Fusionada" class motor
+    F1([Decisión ≤ 4 h]):::kpi
+    F2([Satisfacción ≥ 85%]):::kpi
+    F3([Acciones ≥ 10/mes]):::kpi
+  end
+
+  subgraph "3er Motor: Posibilidad Infinita" class motor
+    P1([Experimentos ≥ 15]):::kpi
+    P2([Insights ≥ 25%]):::kpi
+    P3([Usuarios ≥ 100/mes]):::kpi
+  end
+```
+
+| Motor           | KPI                        | Objetivo     | Badge                                                                 |
+| --------------- | -------------------------- | ------------ | --------------------------------------------------------------------- |
+| Movimiento      | Ideas generadas            | ≥ 20/mes     | ![Ideas](https://img.shields.io/badge/Ideas-%3E%3D20%2Fmes-brightgreen) |
+|                 | Ratio implementación       | ≥ 30 %       | ![Impl.](https://img.shields.io/badge/Implementaci%C3%B3n-%3E30%25-blue) |
+| AiiA Fusionada  | Tiempo de decisión         | ≤ 4 h        | ![Decisión](https://img.shields.io/badge/Decisi%C3%B3n-%3C%3D4h-orange) |
+|                 | Satisfacción de usuarios   | ≥ 85 %       | ![Satis.](https://img.shields.io/badge/Satisfacci%C3%B3n-%3E85%25-brightgreen) |
+| Posibilidad ∞   | Experimentos simultáneos   | ≥ 15         | ![Exp.](https://img.shields.io/badge/Experimentos-%3E%3D15-lightblue)   |
+|                 | Participación colectiva    | ≥ 100/mes    | ![Part.](https://img.shields.io/badge/Participaci%C3%B3n-%3E%3D100%2Fmes-red) |
+
+---
+
+## Workshops
+
+Sesiones de ~4 h para vivir el ciclo completo:
+
+1. **Bienvenida y Contexto** (30 min)  
+2. **Movimiento**: lluvia de ideas y captura  
+3. **Fusión**: datos RaMaLuZ + priorización  
+4. **Prototipado Rápido**: MVPs con AiiA Fusionada  
+5. **Retroalimentación**: presentación, debate p(x)=1, compromisos  
+
+---
+
+## Contribuir
+
+Revisa [CONTRIBUTING.md](.github/CONTRIBUTING.md) para guía y flujo de trabajo.  
+Abre issues en [ISSUE_TEMPLATE](.github/ISSUE_TEMPLATE/) y sigue el [PULL_REQUEST_TEMPLATE.md](.github/PULL_REQUEST_TEMPLATE.md).
+
+---
+
+## Código de Conducta
+
+Este proyecto adopta el [Código de Conducta](.github/CODE_OF_CONDUCT.md). Por favor, respétalo.
+
+---
+
+## Licencia
+
+Distribuido bajo la licencia [MIT](LICENSE.md).  
+```
+
+Con esto tu repositorio queda:
+
+- Ordenado y completo  
+- Documentado con diagramas y KPIs  
+- Preparado para contributions y seguridad  
+
+🚀 ¡A pegar y a triunfar!
