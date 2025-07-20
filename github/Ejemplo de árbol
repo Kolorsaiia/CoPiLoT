@@ -1,0 +1,21 @@
+.
+├── .github
+│   ├── ISSUE_TEMPLATE
+│   ├── PULL_REQUEST_TEMPLATE.md
+│   ├── CONTRIBUTING.md
+│   └── workflows/ci.yml
+├── docs
+│   └── diagrams
+│       ├── arquitectura.mmd
+│       ├── kpis.mmd
+│       └── ecosistema_and_workshop.puml
+├── examples
+│   └── run_workshop_demo.py
+├── src
+│   └── copilot_aiia.py
+├── tests
+│   └── test_kpis.py
+├── .gitignore
+├── README.md
+├── LICENSE.md
+└── ci.yml
