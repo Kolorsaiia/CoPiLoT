@@ -1,0 +1,6 @@
+# Ve al primer src
+cd src
+# Mueve todo desde src/src al nivel actual
+mv src/src/* .
+# Sube de nuevo al root
+cd ../
