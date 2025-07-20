@@ -22,3 +22,19 @@ document.addEventListener("DOMContentLoaded", () => {
     pre.prepend(btn);
   });
 });
+
+
+
+.copy-btn {
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  padding: 4px 8px;
+  font-size: 0.8rem;
+  cursor: pointer;
+  background: #1e88e5;
+  color: white;
+  border: none;
+  border-radius: 3px;
+}
+pre { position: relative; }
